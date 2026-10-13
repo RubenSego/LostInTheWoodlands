@@ -1,0 +1,23 @@
+Character Sprite: Crazy Mushroom
+For Adventure games, platformers, RPG and more.
+
+
+This pack includes the following animations:
+
+-Attack 1 (12 frames)
+-Attack 2 (10 frames)
+-Death 1 (10 frames)
+-Death 2 (10 frames)
+-Dizzy (10 frames)
+-Hurt (10 frames)
+-IDLE 1 (10 frames)
+-IDLE 2 (10 frames)
+-Walk (10 frames)
+
+Full Editable – Easy to Modify – High Resolution
+
+The large size of the character is 500px high. The pack includes 3 sizes: Large, Medium and Low.
+
+This file was created by Franco Giachetti. 
+
+If you have any questions you can contact me: contact@ludicarts.com

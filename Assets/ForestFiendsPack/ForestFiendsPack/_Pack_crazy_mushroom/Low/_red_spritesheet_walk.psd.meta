@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 8134a36f751843f458bcad293822a961
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9070055283481701122
+    second: _red_spritesheet_walk_0
+  - first:
+      213: -1994003262536363234
+    second: _red_spritesheet_walk_1
+  - first:
+      213: -8120131565705145957
+    second: _red_spritesheet_walk_2
+  - first:
+      213: -2407537576151078589
+    second: _red_spritesheet_walk_3
+  - first:
+      213: -6638975279830266398
+    second: _red_spritesheet_walk_4
+  - first:
+      213: 3985196540020074162
+    second: _red_spritesheet_walk_5
+  - first:
+      213: -8293786747263246595
+    second: _red_spritesheet_walk_6
+  - first:
+      213: 3706158466299089884
+    second: _red_spritesheet_walk_7
+  - first:
+      213: -6039265884756316006
+    second: _red_spritesheet_walk_8
+  - first:
+      213: -6790725765126969556
+    second: _red_spritesheet_walk_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _red_spritesheet_walk_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 92
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20be411a93f4fdd70800000000000000
+      internalID: 9070055283481701122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _red_spritesheet_walk_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13dc8fe890e354e0800000000000000
+      internalID: -1994003262536363234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _red_spritesheet_walk_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 103
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9155b00d5f7f4f80800000000000000
+      internalID: -8120131565705145957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _red_spritesheet_walk_3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 110
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3492c168455b69ed0800000000000000
+      internalID: -2407537576151078589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _red_spritesheet_walk_4
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 119
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed0e15682f9dd3a0800000000000000
+      internalID: -6638975279830266398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _red_spritesheet_walk_5
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 0
+        width: 127
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6230083234e4730800000000000000
+      internalID: 3985196540020074162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _red_spritesheet_walk_6
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe188e45ec86ec80800000000000000
+      internalID: -8293786747263246595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _red_spritesheet_walk_7
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1
+        width: 106
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd350113d7bee6330800000000000000
+      internalID: 3706158466299089884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _red_spritesheet_walk_8
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90f6fadca7303ca0800000000000000
+      internalID: -6039265884756316006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _red_spritesheet_walk_9
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1
+        width: 95
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27a38a35ee72c1a0800000000000000
+      internalID: -6790725765126969556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      _red_spritesheet_walk_0: 9070055283481701122
+      _red_spritesheet_walk_1: -1994003262536363234
+      _red_spritesheet_walk_2: -8120131565705145957
+      _red_spritesheet_walk_3: -2407537576151078589
+      _red_spritesheet_walk_4: -6638975279830266398
+      _red_spritesheet_walk_5: 3985196540020074162
+      _red_spritesheet_walk_6: -8293786747263246595
+      _red_spritesheet_walk_7: 3706158466299089884
+      _red_spritesheet_walk_8: -6039265884756316006
+      _red_spritesheet_walk_9: -6790725765126969556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

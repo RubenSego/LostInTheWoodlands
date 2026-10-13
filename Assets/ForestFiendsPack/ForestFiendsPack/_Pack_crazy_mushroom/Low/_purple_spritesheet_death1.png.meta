@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 7f895bfe191e8414d903e2636a12336b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7878675232739569969
+    second: _purple_spritesheet_death1_0
+  - first:
+      213: 6858221270185232078
+    second: _purple_spritesheet_death1_1
+  - first:
+      213: -717380630942980792
+    second: _purple_spritesheet_death1_2
+  - first:
+      213: -4555580448974245766
+    second: _purple_spritesheet_death1_3
+  - first:
+      213: -6789706215900609419
+    second: _purple_spritesheet_death1_4
+  - first:
+      213: 7423522339685436380
+    second: _purple_spritesheet_death1_5
+  - first:
+      213: 4114520240535421945
+    second: _purple_spritesheet_death1_6
+  - first:
+      213: 7487550050563485031
+    second: _purple_spritesheet_death1_7
+  - first:
+      213: 4860732063975349702
+    second: _purple_spritesheet_death1_8
+  - first:
+      213: -8311734298457424307
+    second: _purple_spritesheet_death1_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _purple_spritesheet_death1_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 70
+        width: 94
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcec3eb6e9259a290800000000000000
+      internalID: -7878675232739569969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _purple_spritesheet_death1_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 70
+        width: 103
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec64b68a8eb4d2f50800000000000000
+      internalID: 6858221270185232078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _purple_spritesheet_death1_2
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 71
+        width: 108
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845e5e3fd1a5b06f0800000000000000
+      internalID: -717380630942980792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _purple_spritesheet_death1_3
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 71
+        width: 109
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70fc29d7b357c0c0800000000000000
+      internalID: -4555580448974245766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _purple_spritesheet_death1_4
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 71
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5748bf78b2e16c1a0800000000000000
+      internalID: -6789706215900609419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _purple_spritesheet_death1_5
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 71
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb80278c36a50760800000000000000
+      internalID: 7423522339685436380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _purple_spritesheet_death1_6
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 71
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3c44eeb56b91930800000000000000
+      internalID: 4114520240535421945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _purple_spritesheet_death1_7
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 71
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d6bc9a91f19e760800000000000000
+      internalID: 7487550050563485031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _purple_spritesheet_death1_8
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 54
+        width: 107
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd1a951f0ac47340800000000000000
+      internalID: 4860732063975349702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _purple_spritesheet_death1_9
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 38
+        width: 108
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eb30961b9c6ac80800000000000000
+      internalID: -8311734298457424307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      _purple_spritesheet_death1_0: -7878675232739569969
+      _purple_spritesheet_death1_1: 6858221270185232078
+      _purple_spritesheet_death1_2: -717380630942980792
+      _purple_spritesheet_death1_3: -4555580448974245766
+      _purple_spritesheet_death1_4: -6789706215900609419
+      _purple_spritesheet_death1_5: 7423522339685436380
+      _purple_spritesheet_death1_6: 4114520240535421945
+      _purple_spritesheet_death1_7: 7487550050563485031
+      _purple_spritesheet_death1_8: 4860732063975349702
+      _purple_spritesheet_death1_9: -8311734298457424307
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
