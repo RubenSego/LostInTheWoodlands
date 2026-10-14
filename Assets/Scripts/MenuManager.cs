@@ -5,10 +5,10 @@ public class MenuManager : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadScene("Level1");
+        SceneManager.LoadScene("Level1_Forest");
     }
     public void GoToLevel(int level){
-        SceneManager.LoadScene($"Level{level}");
+        SceneManager.LoadScene($"Level{level}_Forest");
     }
     public void PlayLevelSelection()
     {
