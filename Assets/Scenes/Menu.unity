@@ -3020,7 +3020,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 870, y: -166}
+  m_AnchoredPosition: {x: 756, y: -169}
   m_SizeDelta: {x: 250, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1225646484
@@ -3043,7 +3043,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Forest Runner 2D
+  m_text: Lost in the Woodlands
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2a790f61957834d43b6ddd470c9c6256, type: 2}
   m_sharedMaterial: {fileID: 4410047492864119053, guid: 2a790f61957834d43b6ddd470c9c6256, type: 2}
@@ -3109,7 +3109,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -300.70166, y: 0, z: -21.941345, w: 0}
+  m_margin: {x: -300.70166, y: 0, z: -229.1018, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
