@@ -15,28 +15,16 @@ EditorBuildSettings:
     path: Assets/Scenes/Level1_Forest.unity
     guid: fdeb7afce089a0a49b457a86b28c63e2
   - enabled: 1
+    path: Assets/Scenes/Level2_Forest.unity
+    guid: 269603094026ae942adc50deb3f36c9a
+  - enabled: 1
     path: Assets/Scenes/Character.unity
     guid: a8493afdd1d5b4a49a2f24d517d2a566
   - enabled: 1
     path: Assets/Scenes/Credits.unity
     guid: 233ea06d4de1f0e4fb9782913d440ae4
-  - enabled: 0
-    path: Assets/Scenes/Level1.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 0
-    path: Assets/Scenes/Level2.unity
-    guid: f8247bd1bb3363c46a8d5f91fca074d5
-  - enabled: 0
-    path: Assets/Scenes/Level3.unity
-    guid: 36fb851b667261f4ebcd2cdd5bbc7e86
-  - enabled: 0
-    path: Assets/Scenes/Level4.unity
-    guid: 77dcd3fbc6d4335439d1e76834f312a5
-  - enabled: 0
-    path: Assets/Scenes/Level5.unity
-    guid: c773a94853925e84b9629703b5882a13
-  - enabled: 0
-    path: Assets/Scenes/Level6.unity
-    guid: 346613a49d8678143afe0920e9d21462
+  - enabled: 1
+    path: Assets/Scenes/Story.unity
+    guid: 69eb816565fa7ab4c9b53e6a424a28c8
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

@@ -1560,16 +1560,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Game Programmer:
-
-    Ruben Segovia.
-
-
-    Assets:
-
-    Environment: 2D Forest sprite pack by Laetus Somnia.
-
-    Characters: Forest Fiends - Free Character Pack by ludicarts. '
+  m_text: "Game Programmer:\nRuben Segovia.\n\nAssets:\nEnvironment: 2D Forest sprite pack by Laetus Somnia.\nCharacters: Forest Fiends - Free Character Pack by ludicarts.\n\nAudio:\nDeath sound: monster death grunt by 666HeroHero.\n "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2a790f61957834d43b6ddd470c9c6256, type: 2}
   m_sharedMaterial: {fileID: 4410047492864119053, guid: 2a790f61957834d43b6ddd470c9c6256, type: 2}

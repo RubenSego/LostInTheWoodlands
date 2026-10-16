@@ -22,7 +22,10 @@ public class MenuManager : MonoBehaviour
     {
         SceneManager.LoadScene("Credits");
     }
-
+    public void PlayStory()
+    {
+        SceneManager.LoadScene("Story");
+    }
     public void PlayCharacters()
     {
         SceneManager.LoadScene("Character");
