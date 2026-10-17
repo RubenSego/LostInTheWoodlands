@@ -26,6 +26,6 @@ public class FinishLine : MonoBehaviour
         {
             SceneManager.LoadScene($"Menu"); //TODO: Go to Win Scene.
         }
-        else SceneManager.LoadScene($"Level{unlockedLevel+1}"); //Load the next level.
+        else SceneManager.LoadScene($"Level{unlockedLevel+1}_Forest"); //Load the next level.
     } 
 }
