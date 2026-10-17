@@ -22,9 +22,10 @@ public class FinishLine : MonoBehaviour
         PlayerPrefs.SetInt("UnlockedLevel", unlockedLevel+1); //Unlock the next level
         PlayerPrefs.Save();
         // Reload the current scene.
-        if (unlockedLevel > 4)
+        if (unlockedLevel >= 3)
         {
             SceneManager.LoadScene($"Menu"); //TODO: Go to Win Scene.
+            Debug.Log("Juego completado, volviendo al menú. Nivel: " + unlockedLevel);
         }
         else SceneManager.LoadScene($"Level{unlockedLevel+1}_Forest"); //Load the next level.
     } 

@@ -6,7 +6,7 @@ using UnityEngine.InputSystem;
 public class PlayerController : MonoBehaviour
 {
     [Header("Movement Settings")]
-    [SerializeField] private float torqueAmount = 1f;
+    [SerializeField] private float torqueAmount = 5f;
     [SerializeField] private float normalSpeed = 15f;
     [SerializeField] private float boostSpeed = 30f;
     

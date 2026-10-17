@@ -719,7 +719,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 17cd214afb7566a4690b3430e257606f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  torqueAmount: 1
+  torqueAmount: 1.5
   normalSpeed: 10
   boostSpeed: 25
   brakeSpeed: 6
