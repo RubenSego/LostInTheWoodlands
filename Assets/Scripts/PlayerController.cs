@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
 {
     [Header("Movement Settings")]
     [SerializeField] private float torqueAmount = 5f;
-    [SerializeField] private float normalSpeed = 15f;
+    //[SerializeField] private float normalSpeed = 15f;
     [SerializeField] private float boostSpeed = 30f;
     
     [Header("Brake Mechanics")]
@@ -95,17 +95,11 @@ public class PlayerController : MonoBehaviour
         }
     }
     /// <summary>
-    /// Manages player acceleration, normal cruising, and braking behavior depending on vertical input and ground state.
+    /// Manages player braking behavior depending on vertical input and ground state.
     /// </summary>
     void ManageSpeedAndBrake()
     {
-        if (moveInput.y > 0)
-        {
-            // Boost speed with Up arrow.
-            se.speed = boostSpeed;
-            rb.linearDamping = normalDamping;
-        }
-        else if (moveInput.y < 0 && isGrounded) 
+        if (moveInput.y < 0 && isGrounded) 
         {
             // Reduce the effector speed and increases linear drag.
             se.speed = brakeSpeed;

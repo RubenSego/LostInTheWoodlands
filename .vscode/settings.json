@@ -67,5 +67,8 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "SnowSurfer2D.slnx"
+    "dotnet.defaultSolution": "SnowSurfer2D.slnx",
+    "cSpell.words": [
+        "completado"
+    ]
 }
